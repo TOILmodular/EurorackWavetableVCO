@@ -27,6 +27,16 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 - The module is mainly using THT components.There is only a number of SMD 0.1uF capacitors with the package size 1608.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 
+![VCDO](https://user-images.githubusercontent.com/97026614/178847755-9d0dc88d-2205-430e-aa33-a740faf9cba9.jpeg)
+
+![VCDOFront](https://user-images.githubusercontent.com/97026614/178847775-7df4ade8-d466-4815-8090-4832dd2294d2.jpeg)
+
+![VCDOSide](https://user-images.githubusercontent.com/97026614/178847815-b77609da-177b-477f-a837-d2c4b9f82f55.jpeg)
+
+![VCDOBackSide](https://user-images.githubusercontent.com/97026614/178847851-f70a8c87-64f7-4694-aab3-ad0cef2818e0.jpeg)
+
+![VCDOParts](https://user-images.githubusercontent.com/97026614/178847884-4b90a7c4-8035-4871-8a66-16a76e534c1c.jpeg)
+
 ![Capture1](https://user-images.githubusercontent.com/97026614/178255748-f92e6745-74c5-4cc2-8fe0-ac3176a4bce5.JPG)
 
 ![Capture2](https://user-images.githubusercontent.com/97026614/178255767-555cdae8-e0b0-4951-b829-64ac7e5ad75a.JPG)
