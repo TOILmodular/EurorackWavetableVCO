@@ -19,7 +19,7 @@ I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
 
 ## Panel Layout
-I added the information about hole coordinates for the front panel in the folders PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
+I added the information about hole coordinates for the front panel in the folder PanelLayout, refering to the component layout in the Gerber files. The layout is the same for both versions.
 
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
