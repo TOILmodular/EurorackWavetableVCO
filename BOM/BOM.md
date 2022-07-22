@@ -27,3 +27,10 @@
 | Potentiometer | B100K | 3 | |
 | Potentiometer | B10K | 6 | |
 | Mono Jack | 3.5mm | 6 | |
+| Header | 2.54mm Male 1x4 | 1 | Connector Main Board |
+| Header | 2.54mm Male 1x5 | 1 | Connector Main Board |
+| Header | 2.54mm Male 1x8 | 1 | Connector Main Board |
+| Header | 2.54mm Female 1x4 | 1 | Connector Control Board |
+| Header | 2.54mm Female 1x5 | 1 | Connector Control Board |
+| Header | 2.54mm Female 1x8 | 1 | Connector Control Board |
+| Header | 2.54mm Female 2x8 | 1 | Power Connector |
