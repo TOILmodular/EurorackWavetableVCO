@@ -6,7 +6,7 @@ I built the module mainly by utilizing the example schematics in the documentati
 
 There is a [YouTube video](https://www.youtube.com/watch?v=ECpdo4HfqLg) available, showing the built and sound demonstrations of the module.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
 
 There are two different versions for the control board, an "original" and a "Thonk" version.
