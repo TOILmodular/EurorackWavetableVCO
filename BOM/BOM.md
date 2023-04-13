@@ -33,4 +33,4 @@
 | Header | 2.54mm Female 1x4 | 1 | Connector Control Board |
 | Header | 2.54mm Female 1x5 | 1 | Connector Control Board |
 | Header | 2.54mm Female 1x8 | 1 | Connector Control Board |
-| Header | 2.54mm Female 2x8 | 1 | Power Connector |
+| Header | 2.54mm Male 2x8 | 1 | Power Connector |
