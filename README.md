@@ -4,7 +4,7 @@ The chip is available at the [ElectricDruid](https://electricdruid.net) web shop
 
 I built the module mainly by utilizing the example schematics in the documentation for the chip. It contains a main and a sub oscillator output with 16 and 8 different waveforms, respectively. Most of the controls can be voltage controlled.
 
-There is a [YouTube video](https://www.youtube.com/watch?v=ECpdo4HfqLg) available, showing the built and sound demonstrations of the module.
+There is a [YouTube video](https://www.youtube.com/watch?v=ECpdo4HfqLg) available, showing the build and sound demonstrations of the module.
 
 ## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
